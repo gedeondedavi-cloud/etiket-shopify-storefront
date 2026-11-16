@@ -1,41 +1,37 @@
-# Etiket France — Shopify Storefront
+# Etiket France
 
-A Shopify storefront project showcasing front-end development with **Liquid, JavaScript, HTML and CSS**.
+Shopify front-end project built with Liquid, JavaScript, HTML and CSS.
 
-## Live Store
+Live website: https://etiket-france.com
 
-https://etiket-france.com
+## About the project
 
-## Project Overview
+Etiket France is a Shopify store I worked on as a front-end developer.
 
-This project demonstrates the development and customization of a responsive Shopify storefront, with reusable Liquid components and JavaScript-powered e-commerce interactions.
+My work focused on the storefront and theme customization. I worked with Liquid to build and customize sections and components, CSS for the layouts and responsive design, and JavaScript for interactions on the store.
 
-The theme architecture includes custom storefront sections and components for product discovery, product presentation, navigation, cart interactions and responsive shopping experiences.
+## What I worked on
+
+Custom Liquid sections  
+Product page  
+Product cards  
+Color swatches  
+Header and navigation  
+Featured product sections  
+Lookbook sections  
+Cart drawer  
+Responsive layouts  
+Shopify cart interactions with JavaScript
 
 ## Technologies
 
-- Shopify Liquid
-- JavaScript
-- HTML5
-- CSS3
-- Shopify Theme Architecture
+Liquid  
+JavaScript  
+HTML5  
+CSS3  
+Shopify
 
-## Key Front-End Features
-
-- Custom Shopify Liquid sections
-- Responsive header and navigation
-- Product cards and product presentation components
-- Product variant and color swatch interfaces
-- Custom product page experience
-- Featured product sections
-- Lookbook / product discovery components
-- Cart drawer interactions
-- Responsive layouts for desktop and mobile
-- JavaScript-powered Shopify cart interactions
-
-## Theme Components
-
-Representative custom components include:
+## Some of the components
 
 ```text
 sections/
@@ -53,20 +49,10 @@ assets/
   etk-global.js
 ```
 
-## Development Focus
-
-The project focuses on combining Shopify's Liquid templating system with modern front-end development to create reusable, responsive and interactive storefront components.
-
-JavaScript is used for storefront behavior and cart interactions, including Shopify cart endpoints.
-
-## About This Repository
-
-This repository is intended as a portfolio case study of my Shopify front-end work.
-
-Some production theme files, commercial/theme-source code, store configuration, customer data and sensitive information are intentionally not published here. The repository focuses on code and documentation that can safely demonstrate my front-end development work.
+This repository is used to present part of my work on the project. Some production files and store configuration are not included.
 
 ## Developer
 
-**Jedeon Dedavi**
+Jedeon Dedavi
 
-**Front-End Developer | Liquid | JavaScript | HTML | CSS**
+Front-End Developer | Liquid | JavaScript | HTML | CSS
